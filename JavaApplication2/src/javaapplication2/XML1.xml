@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UC>
+    <usecase id="UC01" name ="use case 1">
+        <input>	
+            <var>Var1</var>
+            <type>Integer</type>
+            <max>10</max>
+            <min>20</min>
+        </input>
+            
+    </usecase>
+    <usecase id="UC02" name ="use case 2">
+        <input>	
+            <var>Var2</var>
+            <type>Integer</type>
+            <max>40</max>
+            <min>80</min>
+        </input>        
+    </usecase>
+    
+    <usecase id="UC03" name ="use case 3">
+        <input>	
+            <var>Var3</var>
+            <type>Integer</type>
+            <max>15</max>
+            <min>59</min>
+        </input>          
+    </usecase>
+    
+    <usecase id="UC04" name ="use case 4">
+        <input>	
+            <var>Var4</var>
+            <type>Integer</type>
+            <max>30</max>
+            <min>80</min>
+        </input>         
+    </usecase>
+    
+    <usecase id="UC05" name ="use case 5">
+        <input>	
+            <var>Var5</var>
+            <type>Integer</type>
+            <max>5</max>
+            <min>25</min>
+        </input>         
+    </usecase>
+    
+    <usecase id="UC06" name ="use case 6">
+        <input>	
+            <var>Var6</var>
+            <type>Integer</type>
+            <max>12</max>
+            <min>60</min>
+        </input>         
+    </usecase>
+    
+    <usecase id="UC07" name ="use case 7">
+        <input>	
+            <var>Var7</var>
+            <type>Integer</type>
+            <max>20</max>
+            <min>80</min>
+        </input>         
+    </usecase>
+    
+    <usecase id="UC08" name ="use case 8">
+        <input>	
+            <var>Var8</var>
+            <type>Integer</type>
+            <max>18</max>
+            <min>40</min>
+        </input>         
+    </usecase>
+    
+    <usecase id="UC09" name ="use case 9">
+        <input>	
+            <var>Var9</var>
+            <type>Integer</type>
+            <max>30</max>
+            <min>70</min>
+        </input>         
+    </usecase>
+    
+    <usecase id="UC010" name ="use case 10">
+        <input>	
+            <var>Var10</var>
+            <type>Integer</type>
+            <max>10</max>
+            <min>18</min>
+        </input>         
+    </usecase>
+    
+    
+</UC>

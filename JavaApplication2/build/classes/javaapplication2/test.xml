@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UC>
+    <usecase id="UC01" name ="use case 1">
+        <input>	
+            <var>Var1</var>
+            <type>Integer</type>
+            <max>10</max>
+            <min>20</min>
+        </input>
+            
+    </usecase>
+</UC>
